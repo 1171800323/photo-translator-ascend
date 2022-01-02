@@ -1,0 +1,6 @@
+test/
+model_weights/*.air
+model_weights/*.om
+__pycache__/
+*.py[cod]
+*$py.class
